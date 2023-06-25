@@ -1,9 +1,9 @@
 <h1> 🎶 Teclado Musical </h1>
 
-O teclado musical é um instrumento musical de interface digitial que reproduz sons de instrumentos musicais ao usuário clicar ou pressionar com teclado em seus botões.
+O teclado musical é um projeto desenvolvido no Curso JavaScript- Telas Dinâmicas na alura. Consiste em um instrumento musical de interface digitial que reproduz sons de instrumentos musicais ao usuário clicar ou pressionar com teclado em seus botões.
 
 
-<img src="file:///C:/Users/Admin/Pictures/Teclado%20musical.PNG" alt="Imagem do Alura MIDI" width="50%">
+![Teclado musical](https://github.com/NovaisAmanda/teclado-musical/assets/85319351/7295309d-efbe-4f59-a6d2-f63571335aa5)
 ##
 
 
